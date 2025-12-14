@@ -117,5 +117,5 @@ qualities:
     name: Bluray-576p
 upgrade_until:
   id: -1
-  name: HD (1080p-No Remux)
+  name: HD x265 (1080p-No Remux)
 language: any
