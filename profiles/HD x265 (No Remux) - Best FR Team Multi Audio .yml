@@ -80,7 +80,7 @@ custom_formats_sonarr:
   score: 2200
 qualities:
 - id: -1
-  name: HD (1080p-No Remux)
+  name: HD x265 (1080p-No Remux)
   description: ''
   qualities:
   - id: 10
